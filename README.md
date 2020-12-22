@@ -1,4 +1,8 @@
 # WELCOME TO DELESSLIN'S HOMEPAGE
+I'm a citizen of Catawba Nation, artist, consultant, and enthusiastic coding novice.
+Tanake!
+
+
 ## This is my professional resume, CV, contact form, & blog
 ### It's also my playground for various coding projects
 
